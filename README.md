@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rajasekar-m-portfolio.netlify.app/](https://rajasekar-m-portfolio.netlify.app/)
 
-- 📫 How to reach me **hansomekillerraja@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/rajasekar-m-b47b5624a**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
