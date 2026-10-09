@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://rajasekar-m-portfolio.netlify.app/](https://rajasekar-m-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://rajasekar-modern-portfolio.vercel.app/)
 
 - 📫 How to reach me **www.linkedin.com/in/rajasekar-m-b47b5624a**
 
